@@ -4,6 +4,6 @@
 
 ### I'm a Frontend Developer 🤓
 
-✨ ✨✨✨✨ ✨  
-✨ [marsel.one](https://marsel.one) ✨  
-✨ ✨✨✨✨ ✨  
+✨ ✨✨✨ ✨  
+✨ [portfolio](https://iamrealmarsel.github.io/portfolio) ✨  
+✨ ✨✨✨ ✨
