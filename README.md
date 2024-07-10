@@ -1,4 +1,4 @@
-### I'm a Frontend Developer 🤓
+### I'm a philosopher and a slacker 🤓
 
 ✨ ✨✨✨ ✨  
 ✨ [portfolio](https://iamrealmarsel.github.io/portfolio) ✨  
